@@ -1,0 +1,152 @@
+### 31.03.2022 12:33:25
+Array
+(
+    [layout] => catalog
+    [title] => Бухи
+    [files] => Array
+        (
+            [0] => 1.html
+            [1] => 2.html
+            [2] => Снимок экрана 2022—03—16 в 21.24.36.png
+        )
+
+)
+
+
+
+### 31.03.2022 18:11:43
+Array
+(
+    [layout] => catalog
+    [title] => Бухи
+    [files] => Array
+        (
+            [0] => 1.html
+            [1] => 2.html
+            [2] => Снимок экрана 2022—03—16 в 21.24.36.png
+        )
+
+)
+
+
+
+### 31.03.2022 18:18:16
+Array
+(
+    [layout] => layout
+    [news] => Array
+        (
+            [title] => Unknown system variable lc_messages
+            [text] => Описание
+При попытке подключиться к MySQL с помощью phpMyAdmin выскакивает ошибка «Unknown system variable 'lc_messages'».
+
+Такая же ошибка появляется при вводе SQL-запроса:
+        )
+
+)
+
+
+
+### 31.03.2022 19:30:58
+Array
+(
+    [layout] => catalog
+    [title] => Бухи
+    [files] => Array
+        (
+            [0] => 1.html
+            [1] => 2.html
+            [2] => Снимок экрана 2022—03—16 в 21.24.36.png
+        )
+
+)
+
+
+
+### 31.03.2022 19:31:22
+Array
+(
+    [layout] => catalog
+    [title] => Бухи
+    [files] => Array
+        (
+            [0] => 1.html
+            [1] => 2.html
+            [2] => christmas_nativity.jpg
+            [3] => Снимок экрана 2022—03—16 в 21.24.36.png
+        )
+
+)
+
+
+
+### 31.03.2022 19:32:22
+Array
+(
+    [layout] => catalog
+    [title] => Бухи
+    [files] => Array
+        (
+            [0] => 1.html
+            [1] => 2.html
+            [2] => christmas_nativity.jpg
+            [3] => Снимок экрана 2022—03—16 в 21.24.36.png
+        )
+
+)
+
+
+
+### 31.03.2022 19:34:01
+Array
+(
+    [layout] => catalog
+    [title] => Бухи
+    [files] => Array
+        (
+            [0] => 1.html
+            [1] => 2.html
+            [2] => christmas-2869903_1280-1.jpg
+            [3] => christmas_nativity.jpg
+            [4] => Снимок экрана 2022—03—16 в 21.24.36.png
+        )
+
+)
+
+
+
+### 01.04.2022 16:41:08
+Array
+(
+    [layout] => catalog
+    [title] => Бухи
+    [files] => Array
+        (
+            [0] => 1.html
+            [1] => 2.html
+            [2] => christmas-2869903_1280-1.jpg
+            [3] => christmas_nativity.jpg
+            [4] => Снимок экрана 2022—03—16 в 21.24.36.png
+        )
+
+)
+
+
+
+### 01.04.2022 16:41:15
+Array
+(
+    [layout] => layout
+    [news] => Array
+        (
+            [title] => Unknown system variable lc_messages
+            [text] => Описание
+При попытке подключиться к MySQL с помощью phpMyAdmin выскакивает ошибка «Unknown system variable 'lc_messages'».
+
+Такая же ошибка появляется при вводе SQL-запроса:
+        )
+
+)
+
+
+
